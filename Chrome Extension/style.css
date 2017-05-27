@@ -1,0 +1,14 @@
+body {
+    background-color: cornsilk;
+    width: 100px;
+    text-align: left;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+body:hover, body:active, body:focus {
+    color: crimson;
+    font-weight: 100;
+}
+
+
+
